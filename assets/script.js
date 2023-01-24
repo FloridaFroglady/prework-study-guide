@@ -1,4 +1,4 @@
-let topics = ["HTML", "CSS", "Git", "Javascript"];
+let topics = ["HTML", "CSS", "Git", "JavaScript"];
 let randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
